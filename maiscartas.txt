@@ -1,0 +1,9 @@
+BARALHO 8
+MagoNegro 2500 2100 7 
+Juez 2200 1500 6 
+CastorGuerreiro 1200 1500 4 
+TimeWizard 500 400 2 
+Kuriboh 300 200 1 
+CelticGuardian 1400 1200 4 
+Jinzo 2400 1500 6 
+Aeris 1800 1400 4
